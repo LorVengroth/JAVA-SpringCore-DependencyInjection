@@ -1,4 +1,4 @@
-package learning.dependency.injection.DI;
+package learning.dependency.injection.DI.feildInjection;
 
 
 import org.springframework.stereotype.Component;
