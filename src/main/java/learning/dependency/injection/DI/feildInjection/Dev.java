@@ -13,6 +13,14 @@ public class Dev {
     @Autowired // this is call feildInjection
     Computer comp ;
 
+    // This is the constructor injection and i comment it cuz i just edit it after i push so i lazy to do it again
+    // @Autowired
+    // private final Computer comp ; 
+    // not the key word final
+    // public Dev(Computer comp){
+    //     this.comp = comp ;
+    // }
+
 
 
     public void build(){
